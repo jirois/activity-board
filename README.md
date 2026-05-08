@@ -1,6 +1,6 @@
 # 📋 Activity Board
 
-> A drag-and-drop task management board with inline editing and persistent storage — built as part of a May 2026 portfolio rebuild.
+> A drag-and-drop task management board with inline editing and persistent storage
 
 ---
 
