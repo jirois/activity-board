@@ -11,7 +11,7 @@ export default function App() {
           alignItems: "center",
         }}
       >
-        <h1 style={{ margin: 0, fontSize: "20px" }}>Kanban Board</h1>
+        <h1 style={{ margin: 0, fontSize: "20px" }}>Activity Board</h1>
       </header>
       <Board />
     </div>
